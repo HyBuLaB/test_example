@@ -1,0 +1,16 @@
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\bin\Debug\SquareSimpleTest.dll
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\bin\Debug\SquareSimpleTest.pdb
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\bin\Debug\SquareSimple.dll
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\bin\Debug\SquareSimple.pdb
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\obj\Debug\SquareSimpleTest.csprojAssemblyReference.cache
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\obj\Debug\SquareSimpleTest.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\obj\Debug\SquareSimpleTest.csproj.CopyComplete
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\obj\Debug\SquareSimpleTest.dll
+C:\Users\Artem\source\repos\SquareSimple\SquareSimpleTest\obj\Debug\SquareSimpleTest.pdb

@@ -1,0 +1,6 @@
+C:\Users\Artem\source\repos\SquareSimple\SquareSimple\bin\Debug\SquareSimple.dll
+C:\Users\Artem\source\repos\SquareSimple\SquareSimple\bin\Debug\SquareSimple.pdb
+C:\Users\Artem\source\repos\SquareSimple\SquareSimple\obj\Debug\SquareSimpleLib.csprojAssemblyReference.cache
+C:\Users\Artem\source\repos\SquareSimple\SquareSimple\obj\Debug\SquareSimpleLib.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\SquareSimple\SquareSimple\obj\Debug\SquareSimple.dll
+C:\Users\Artem\source\repos\SquareSimple\SquareSimple\obj\Debug\SquareSimple.pdb
